@@ -71,8 +71,8 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>E:\BaiduYunDownload\OpenGL\Libraries\Includes;$(IncludePath)</IncludePath>
-    <LibraryPath>E:\BaiduYunDownload\OpenGL\Libraries\Libs;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\OpenGL\Libraries\Includes;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\OpenGL\Libraries\Libs;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
